@@ -8,7 +8,9 @@ Assume words are available in a dictionary.
 https://github.com/tmobil/WordCircle/blob/master/english.json
 
 Input: X = 4
+
 Output: true 
+
 The word circle can be chained as "for", "rig", "geek" and "kaf"
 
 Feel free to be creative, considering options such as words of differing character lengths, memory and performance considerations for the project.      
