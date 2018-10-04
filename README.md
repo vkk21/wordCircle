@@ -2,7 +2,7 @@
 Word Circle problem
 
 
-Given a valid word in the dictionary, write a program to return the word circle. The word cicle contains valid words that can be chained to form a circle. A word M can be put before another word N in a cicle if the last character of M is the same as the first character of N. A word circle contains at least 3 vertices. Each vertex in the word circle is unique.
+Given a valid word in the dictionary, write a program to return the word circle. A valid word is at least two characters long. The word circle contains valid words that can be chained to form a circle. A word M can be put before another word N in a cicle if the last character of M is the same as the first character of N. A word circle contains at least 3 vertices. Each vertex in the word circle is unique.
 
 Assume words are available in a dictionary.
 https://github.com/tmobil/WordCircle/blob/master/english.json
